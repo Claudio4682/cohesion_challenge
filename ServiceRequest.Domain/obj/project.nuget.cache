@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijdjDr50zdTLtyLTAFpxmcCeaB5uU51P0dhdb+4Kkyw5rzQqR6hAb07K4Pxn2yuseDS9a8ntmPITCe4SuCim6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudio Jaramillo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Claudio Jaramillo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

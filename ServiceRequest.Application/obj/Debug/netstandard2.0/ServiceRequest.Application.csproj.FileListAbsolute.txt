@@ -1,0 +1,12 @@
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\bin\Debug\netstandard2.0\ServiceRequest.Application.deps.json
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\bin\Debug\netstandard2.0\ServiceRequest.Application.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\bin\Debug\netstandard2.0\ServiceRequest.Application.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\bin\Debug\netstandard2.0\ServiceRequest.Domain.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\bin\Debug\netstandard2.0\ServiceRequest.Domain.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.csproj.AssemblyReference.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.AssemblyInfoInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.AssemblyInfo.cs
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.csproj.CopyComplete
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Application\obj\Debug\netstandard2.0\ServiceRequest.Application.pdb

@@ -1,0 +1,9 @@
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\bin\Debug\netstandard2.0\ServiceRequest.Domain.deps.json
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\bin\Debug\netstandard2.0\ServiceRequest.Domain.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\bin\Debug\netstandard2.0\ServiceRequest.Domain.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.csproj.AssemblyReference.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.AssemblyInfoInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.AssemblyInfo.cs
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Domain\obj\Debug\netstandard2.0\ServiceRequest.Domain.pdb

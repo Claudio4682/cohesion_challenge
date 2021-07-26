@@ -1,0 +1,14 @@
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Infrastructure.deps.json
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Infrastructure.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Infrastructure.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Application.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Domain.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Application.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\bin\Debug\netstandard2.1\ServiceRequest.Domain.pdb
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.AssemblyInfo.cs
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.csproj.CopyComplete
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.dll
+C:\Users\Claudio Jaramillo\source\repos\ServiceRequest\ServiceRequest.Infrastructure\obj\Debug\netstandard2.1\ServiceRequest.Infrastructure.pdb

@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Infrastructure\\ServiceRequest.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\ServiceRequest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\ServiceRequest.Application.csproj",
+        "projectName": "ServiceRequest.Application",
+        "projectPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\ServiceRequest.Application.csproj",
+        "packagesPath": "C:\\Users\\Claudio Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Claudio Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj",
+        "projectName": "ServiceRequest.Domain",
+        "projectPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\ServiceRequest.Domain.csproj",
+        "packagesPath": "C:\\Users\\Claudio Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Claudio Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Infrastructure\\ServiceRequest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Infrastructure\\ServiceRequest.Infrastructure.csproj",
+        "projectName": "ServiceRequest.Infrastructure",
+        "projectPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Infrastructure\\ServiceRequest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Claudio Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Claudio Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\ServiceRequest.Application.csproj": {
+                "projectPath": "C:\\Users\\Claudio Jaramillo\\source\\repos\\ServiceRequest\\ServiceRequest.Application\\ServiceRequest.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.24.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
